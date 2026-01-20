@@ -8,13 +8,15 @@ This project creates a visually appealing LED pattern where each of the 5 onboar
 
 ## Hardware Setup
 
-![Hardware Setup - View 1](Blink_img_1.jpeg)
-
-![Hardware Setup - View 2](Blink_img_2.jpeg)
+<img src="Blink_img_1.jpeg" alt="Hardware Setup - View 1" width="400"/>
+<img src="Blink_img_2.jpeg" alt="Hardware Setup - View 2" width="400"/>
 
 ## Output Demonstration
 
-![Sequential LED Blinking](blink_vid.mp4)
+<video width="640" controls>
+  <source src="blink_vid.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
 
 ### Video Explanation
 

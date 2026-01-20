@@ -8,13 +8,15 @@ This project implements a push-button controlled counter that displays digits 0-
 
 ## Hardware Setup
 
-![Hardware Setup - View 1](Counter_img_1.jpeg)
-
-![Hardware Setup - View 2](Counter_img_2.jpeg)
+<img src="Counter_img_1.jpeg" alt="Hardware Setup - View 1" width="400"/>
+<img src="Counter_img_2.jpeg" alt="Hardware Setup - View 2" width="400"/>
 
 ## Output Demonstration
 
-![Counter Operation](Counter_vid.mp4)
+<video width="640" controls>
+  <source src="Counter_vid.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
 
 ### Video Explanation
 

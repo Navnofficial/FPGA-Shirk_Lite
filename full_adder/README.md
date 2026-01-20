@@ -8,11 +8,14 @@ This project implements a full adder, one of the most important building blocks 
 
 ## Hardware Setup
 
-![Hardware Setup](full_add_img_1.jpeg)
+<img src="full_add_img_1.jpeg" alt="Hardware Setup" width="400"/>
 
 ## Output Demonstration
 
-![Full Adder Operation](full_add_vid.mp4)
+<video width="640" controls>
+  <source src="full_add_vid.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
 
 ### Video Explanation
 
