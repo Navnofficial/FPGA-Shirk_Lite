@@ -1,0 +1,39 @@
+
+
+####   Resource Utilization Report   ####
+
+    Top level module name: blink
+
+    Resource usage:
+      12 Logic 6-LUT CLBs
+           46 CLB LUTs utilized (up to 4 per CLB)
+                 2 of which are 6-input LUTs
+                14 of which are dual 5-input LUTs
+                60 LUTs total
+           35 CLB FFs utilized (up to 4 pairs per CLB)
+                35 of which are LUT-FF combination
+                35 FFs total
+       6 I/O CLBs
+           11 Output pins
+       1 Clock
+           Clock 0: net    42, clk, Fanout: 9 CLBs
+           Total 1 unique clocks
+    need 0 DSP and 1 Logic-Memory FPGA 1K Tiles.
+
+ 
+####   Resource Utilization Complete   ####
+
+TILE-REQ:		0		0		0		1
+
+### Total FPGA resources from current floorplan: ###
+                       184 IOBs
+                       140 Logic 6-LUT CLBs
+                              40 CLBs support RAM/SR
+
+Usage of Logic CLBs is 8.6%.
+    Logic-Memory CLB for RAM/Shift-Register is 0.0%.
+Usage of LUTs is 8.2%.
+    dual-LUTs is 2.5%.
+Usage of FF is 6.2%.
+    dual-FF is 0.0%.
+Usage of IO CLB is 3.3%.

@@ -1,0 +1,42 @@
+
+
+####   Resource Utilization Report   ####
+
+    Top level module name: seven_segment_counter
+
+    Resource usage:
+      18 Logic 6-LUT CLBs
+           64 CLB LUTs utilized (up to 4 per CLB)
+                11 of which are 6-input LUTs
+                15 of which are dual 5-input LUTs
+                79 LUTs total
+           26 CLB FFs utilized (up to 4 pairs per CLB)
+                26 of which are LUT-FF combination
+                 1 of which are dual-FFs
+                27 FFs total
+       9 I/O CLBs
+            2  Input pins
+           15 Output pins
+            7 Output FFs utilized
+       1 Clock
+           Clock 0: net    15, clk, Fanout: 16 CLBs
+           Total 1 unique clocks
+    need 0 DSP and 1 Logic-Memory FPGA 1K Tiles.
+
+ 
+####   Resource Utilization Complete   ####
+
+TILE-REQ:		0		0		0		1
+
+### Total FPGA resources from current floorplan: ###
+                       184 IOBs
+                       140 Logic 6-LUT CLBs
+                              40 CLBs support RAM/SR
+
+Usage of Logic CLBs is 12.9%.
+    Logic-Memory CLB for RAM/Shift-Register is 0.0%.
+Usage of LUTs is 11.4%.
+    dual-LUTs is 2.7%.
+Usage of FF is 4.6%.
+    dual-FF is 0.2%.
+Usage of IO CLB is 4.9%.

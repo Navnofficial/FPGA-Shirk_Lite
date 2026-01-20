@@ -1,0 +1,30 @@
+####   Post-Placement Resource Utilization Report   ####
+
+                                                                  
+   1 Logic 6-LUT RBBs                                             
+          1 RBB LUTs utilized (up to 4 per RBB)                   
+             1 of which are dual 5-input LUTs                     
+             2 LUTs total                                         
+   5 I/O RBBs                                                     
+          3  Input pins                                           
+          4 Output pins                                           
+   Usage of Logic RBBs is 1%.                                     
+   Usage of LUTs is 1%.                                           
+       dual-LUTs is 1%.                                           
+   Usage of IO RBB is 3%.                                         
+
+
+ | ------------------------------------------------------------ | 
+ | TILE X0Y0                                                    | 
+ | 1 Logic 6-LUT RBBs                                           | 
+ |        1 RBB LUTs utilized (up to 4 per RBB)                 | 
+ |           1 of which are dual 5-input LUTs                   | 
+ |           2 LUTs total                                       | 
+ | 5 I/O RBBs                                                   | 
+ |        3  Input pins                                         | 
+ |        4 Output pins                                         | 
+ | Usage of Logic RBBs is 1%.                                   | 
+ | Usage of LUTs is 1%.                                         | 
+ |     dual-LUTs is 1%.                                         | 
+ | Usage of IO RBB is 3%.                                       | 
+ | ------------------------------------------------------------ | 

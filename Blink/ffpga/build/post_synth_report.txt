@@ -1,0 +1,22 @@
+
+5. Printing statistics.
+
+=== blink ===
+
+   Number of wires:                 64
+   Number of wire bits:            164
+   Number of public wires:           7
+   Number of public wire bits:      52
+   Number of memories:               0
+   Number of memory bits:            0
+   Number of processes:              0
+   Number of cells:                 66
+     CARRY4                         10
+     FDRE                           35
+     INV                             5
+     LUT2                            6
+     LUT3                            2
+     LUT4                            3
+     LUT5                            3
+     LUT6                            2
+

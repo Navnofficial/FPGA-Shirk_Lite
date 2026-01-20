@@ -1,0 +1,25 @@
+
+5. Printing statistics.
+
+=== seven_segment_counter ===
+
+   Number of wires:                139
+   Number of wire bits:            191
+   Number of public wires:          22
+   Number of public wire bits:      28
+   Number of memories:               0
+   Number of memory bits:            0
+   Number of processes:              0
+   Number of cells:                 95
+     CARRY4                          7
+     FDCE                           28
+     FDPE                            6
+     INV                             4
+     LUT2                            9
+     LUT3                            1
+     LUT4                           19
+     LUT5                            2
+     LUT6                            5
+     MUXF7                           7
+     MUXF8                           7
+

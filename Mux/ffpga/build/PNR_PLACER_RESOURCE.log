@@ -1,0 +1,16 @@
+####   Post-Placement Resource Utilization Report   ####
+
+                                                                  
+   2 I/O RBBs                                                     
+          1  Input pins                                           
+          2 Output pins                                           
+   Usage of IO RBB is 2%.                                         
+
+
+ | ------------------------------------------------------------ | 
+ | TILE X0Y0                                                    | 
+ | 2 I/O RBBs                                                   | 
+ |        1  Input pins                                         | 
+ |        2 Output pins                                         | 
+ | Usage of IO RBB is 2%.                                       | 
+ | ------------------------------------------------------------ | 

@@ -1,0 +1,48 @@
+# STATUS=3c ORDER_REDUCED PROPAGATED ;
+
+# PINS 32 ARCS 0 (non_user=0) ;
+D F1,4 ;
+D T1,4 ;
+D F1,3 ;
+D T1,3 ;
+D F1,2 ;
+D T1,2 ;
+D F1,1 ;
+D T1,1 ;
+D F1,0 ;
+D T1,0 ;
+D O1,1 ;
+D O1,0 ;
+D I1,3 ;
+D I1,2 ;
+D I1,1 ;
+D I1,0 ;
+D F0,4 ;
+D T0,4 ;
+D F0,3 ;
+D T0,3 ;
+D F0,2 ;
+D T0,2 ;
+D F0,1 ;
+D T0,1 ;
+D F0,0 ;
+D T0,0 ;
+D O0,1 ;
+D O0,0 ;
+D I0,3 ;
+D I0,2 ;
+D I0,1 ;
+D I0,0 ;
+
+#ARCS 0 ;
+
+# NETS 0 (non_user=0) ;
+
+# CONSTANTS 0 (non_user=0) ;
+
+# GROUPS WITH CLOCK_SORUCE_NODES 0 (non_user=0) ;
+# CLOCK_NETS 0 (non_user=0) ;
+G <DEFAULT> ;
+
+# EXCEPTIONS 0 ;
+

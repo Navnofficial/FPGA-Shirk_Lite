@@ -1,0 +1,36 @@
+####   Post-Placement Resource Utilization Report   ####
+
+                                                                  
+   12 Logic 6-LUT RBBs                                            
+         46 RBB LUTs utilized (up to 4 per RBB)                   
+             2 of which are 6-input LUTs                          
+            14 of which are dual 5-input LUTs                     
+            60 LUTs total                                         
+         35 RBB FFs utilized (up to 4 pairs per RBB)              
+             4 of which are LUT-FF combination                    
+   6 I/O RBBs                                                     
+         11 Output pins                                           
+   Usage of Logic RBBs is 9%.                                     
+   Usage of LUTs is 9%.                                           
+       dual-LUTs is 3%.                                           
+   Usage of FF is 4%.                                             
+   Usage of IO RBB is 4%.                                         
+
+
+ | ------------------------------------------------------------ | 
+ | TILE X0Y0                                                    | 
+ | 12 Logic 6-LUT RBBs                                          | 
+ |       46 RBB LUTs utilized (up to 4 per RBB)                 | 
+ |           2 of which are 6-input LUTs                        | 
+ |          14 of which are dual 5-input LUTs                   | 
+ |          60 LUTs total                                       | 
+ |       35 RBB FFs utilized (up to 4 pairs per RBB)            | 
+ |           4 of which are LUT-FF combination                  | 
+ | 6 I/O RBBs                                                   | 
+ |       11 Output pins                                         | 
+ | Usage of Logic RBBs is 9%.                                   | 
+ | Usage of LUTs is 9%.                                         | 
+ |     dual-LUTs is 3%.                                         | 
+ | Usage of FF is 4%.                                           | 
+ | Usage of IO RBB is 4%.                                       | 
+ | ------------------------------------------------------------ | 
