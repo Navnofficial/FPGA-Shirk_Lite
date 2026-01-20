@@ -23,12 +23,12 @@ The repository includes comprehensive pinout diagrams for hardware connections:
 
 This repository contains the following FPGA projects:
 
-| Project | Description | Complexity |
-|---------|-------------|------------|
-| [Blink](Blink/) | Sequential LED blinking pattern using one-hot encoding | Beginner |
-| [Mux](Mux/) | 2:1 Multiplexer with selector input | Beginner |
-| [Counter](counter/) | 0-9 Seven-segment display counter with button input | Beginner |
-| [Full Adder](full_adder/) | 1-bit full adder with sum and carry outputs | Beginner |
+| Project | Description | 
+|---------|-------------|
+| [Blink](Blink/) | Sequential LED blinking pattern using one-hot encoding | 
+| [Mux](Mux/) | 2:1 Multiplexer with selector input | 
+| [Counter](counter/) | 0-9 Seven-segment display counter with button input | 
+| [Full Adder](full_adder/) | 1-bit full adder with sum and carry outputs | 
 
 ## Project Structure
 
