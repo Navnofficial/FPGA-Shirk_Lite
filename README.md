@@ -11,9 +11,13 @@ The **Vicharak Shrike** is a powerful FPGA development board perfect for learnin
 
 ### Pinout Reference
 
-The repository includes comprehensive pinout diagrams:
-- `shrike_pinouts.svg` - Complete board pinout diagram
-- `CPU Interconnect pin out.png` - CPU interconnect pinout
+The repository includes comprehensive pinout diagrams for hardware connections:
+
+#### Shrike Board Pinout
+<img src="shrike_pinouts.svg" alt="Shrike Board Complete Pinout" width="600"/>
+
+#### CPU Interconnect Pinout
+<img src="CPU Interconnect pin out.png" alt="CPU Interconnect Pinout" width="600"/>
 
 ## Projects
 
